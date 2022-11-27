@@ -1,2 +1,2 @@
 # test_2
-Test Project Repository
+Test Project Repositoru
